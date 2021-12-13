@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "for": "woman",
+      "category": "outerwear",
+      "price": 7999,
+      "image1": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2f%2F3d%2F2f3d651f9a1c379560d87a67f3739b348736804f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "image2": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0d%2F4d%2F0d4dc066d0472b77cb9c7600943f1ab40b9c1627.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "id": 1
+    }
+  ]
+}

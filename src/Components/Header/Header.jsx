@@ -4,7 +4,7 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <>
+        <div className="header">
         <div className="users__navbar">
             navbar for users
         </div>
@@ -20,7 +20,7 @@ const Header = () => {
             <span>H&M HOME</span>
             <span>Распродажа</span>
         </nav>
-        </>
+        </div>
     );
 };
 
